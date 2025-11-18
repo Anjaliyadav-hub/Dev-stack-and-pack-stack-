@@ -174,6 +174,7 @@ Go to:
 Connection → SSH → Auth → Credentials → Browse → Select Key
 
 Then Open → Login.
+![image alt](https://github.com/NishantDas0079/DevStack-and-PackStack/blob/main/IMG_20251118_075734_236.jpg?raw=true)
 
 
 ---
